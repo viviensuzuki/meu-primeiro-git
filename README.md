@@ -1,2 +1,3 @@
 # meu-primeiro-git
-Aprendendo a mexer com git e gitflow
+
+Repositório para aprender a mexer com git e gitflow
